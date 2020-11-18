@@ -15,3 +15,11 @@ code {
 main {
   min-height: 80vh;
 }
+
+.rating span {
+  margin: 0.1rem;
+}
+
+.rating h3 {
+  padding: 1rem 0 ;
+}
